@@ -3,7 +3,7 @@
 in this repo i am creating a schoool system from scrach and creating some basic functions , and i am editing the readme file as i improve the project into a better version of it .  
 as for now the main functions are :
 
--   user login and token auth\
+-   user login and token auth
 
     ## user login
 
